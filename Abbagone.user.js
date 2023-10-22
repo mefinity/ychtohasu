@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Abbagone
+// @icon         https://github.com/MeFinity/ychtohasu/raw/main/icon.png
 // @namespace    Violentmonkey Scripts
-// @version      1.0
+// @version      1.1
 // @description  Hide @abbxd's youtube comments
 // @author       MeFinity
 // @homepage     https://github.com/MeFinity/ychtohasu
